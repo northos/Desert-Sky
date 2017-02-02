@@ -1,0 +1,8 @@
+TODO (DESERT SKY):
+
+* Pathfinding & Movement
+* Object interactions
+* Items
+* Player inventory
+* Combat
+* Level design/randomization
